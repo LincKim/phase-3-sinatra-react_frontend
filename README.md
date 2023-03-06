@@ -51,7 +51,7 @@ This command sets up the necessary node modules for this repository.
 This is to enable the display of this app's UI.
 ## Running
 
-* Click the following [link](#) to run the app:
+* Click the following [link](#) to open the app:
 
 
 ## Authors
