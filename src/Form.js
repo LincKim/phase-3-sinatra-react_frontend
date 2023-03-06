@@ -2,11 +2,6 @@ import {useState, useEffect} from "react"
 import Meme from './components/Meme';
 import Header from './components/Header';
 import MemeGenerator from './components/MemeGenerator';
-import Navbar from './components/Navbar/Navbar';
-import {Route, Routes} from "react-router-dom";
-import About from './components/About';
-import Home from './components/Home';
-import Contact from './components/Contact';
 
 
 function Form() {
