@@ -1,7 +1,7 @@
 #  MEME GENERATOR
 
 
-## BUILT WITH
+## Built with
 This application was built with the following technologies:
 
 * HTML
@@ -29,7 +29,7 @@ git clone:
 
         git@github.com:LincKim/phase-3-sinatra-react_frontend.git
 
-## PRE-REQUISITES
+## Pre-Requisites
 
 If you need the repository at you local machine then the steps provided on the previous title will kickstart the process.
 
