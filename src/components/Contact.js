@@ -11,13 +11,13 @@ const Contact = () => {
         <p></p>
       <p> 
         <a href="https://www.facebook.com/yourusername">
-          <img src={FacebookImage} alt="Facebook Image" />
+          <img src={FacebookImage} alt="Facebook" />
         </a>
         <a href="https://www.twitter.com/yourusername">
-          <img src={TwitterImage} alt="Twitter Image" />
+          <img src={TwitterImage} alt="Twitter" />
         </a>
         <a href="https://www.instagram.com/yourusername">
-          <img src={InstagramImage} alt="Instagram Image" />
+          <img src={InstagramImage} alt="Instagram" />
         </a>
       </p>
       
