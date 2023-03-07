@@ -17,7 +17,7 @@ function Form() {
       async function getMemes() {
           const res = await fetch('http://127.0.0.1:9292/memes')
           const data = await res.json()
-          setAllMemes(data.data.memes)
+          setAllMemes(data.memes)
       }
       getMemes()
     },[])

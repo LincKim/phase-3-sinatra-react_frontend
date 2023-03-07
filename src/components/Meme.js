@@ -8,16 +8,15 @@ function Meme({imageSrc, inputs}) {
       <div className="meme__holder">
         <div id="meme" className="meme" ref={componentRef}> 
           {<img className="meme__image" src={imageSrc} alt="meme" width="100" />}
-          <h2 className="top">{inputs.toptext}</h2>
-          <h2 className="bottom">{inputs.bottomtext}</h2>
+            <h2 className="top">{inputs.toptext}</h2>
+            <h2 className="bottom">{inputs.bottomtext}</h2>
         </div>
         <div className="meme__exporter">
-        <button className="btn" onClick={() => exportComponentAsJPEG(componentRef)}>
-                Save as JPEG
-        </button>
-        
-            </div>
+          <button className="btn" onClick={() => exportComponentAsJPEG(componentRef)}>
+                  Download
+          </button>
         </div>
+      </div>
     )
   }
 

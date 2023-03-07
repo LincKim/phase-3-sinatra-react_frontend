@@ -55,7 +55,7 @@ This is to enable the display of this app's UI.
 
 ## Database
 This app fetches its data from an external database.
-* [link](https://my-first-backend-deploy.onrender.com)
+* [link](https://generator-36sj.onrender.com)
 
 ## Authors
 
