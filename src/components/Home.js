@@ -9,13 +9,10 @@ function Home() {
             flexDirection: "column",
             alignItems: "center",
             justifyContent: "center",
-            height: "100vh"
+            // height: "100vh"
           }}>
-            
-            <span><h1>MEME GENERATOR</h1></span>
-          
-            <h2>Click below</h2>
-            
+            {/* <span><h1>MEME GENERATOR</h1></span> */}
+            <h2>Generate below</h2>
             <Link to="/generator">
               <button>Generator</button>
             </Link>
