@@ -51,11 +51,11 @@ This command sets up the necessary node modules for this repository.
 This is to enable the display of this app's UI.
 ## Running
 
-* [click here](#) to open the app:
+* [click here](https://dainty-truffle-d8cd14.netlify.app) to open the app:
 
 ## Database
 This app fetches its data from an external database.
-* [link](#)
+* [link](https://my-first-backend-deploy.onrender.com)
 
 ## Authors
 
